@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Haruki Takeda"
-  avatar           : "/assets/images/icon_jpg"
+  avatar           : "/assets/images/icon.jpg"
   bio              : "Graduated Student at JAIST."
   location         : "Nomi-city, Ishikawa, JAPAN"
   email            :
